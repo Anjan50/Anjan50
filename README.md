@@ -53,6 +53,7 @@ Hi, I'm [ANJAN DIYORA](http://www.computeredu.tech/) from India, currently secon
 
 <details>
 <summary>📈 My GitHub Stats</summary>
+<br />
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anjan50&show_icons=true&theme=gotham" alt="ANJAN DIYORA" />
 
