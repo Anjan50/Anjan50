@@ -19,6 +19,8 @@
 
 
 #
+<br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Anjan50.Anjan50)
 
 <br />
@@ -51,10 +53,13 @@ Hi, I'm [ANJAN DIYORA](http://www.computeredu.tech/) from India, currently secon
 
 
 
+## 📈 My GitHub Stats
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary> 👈 Click here </summary>
 <br />
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anjan50&show_icons=true&theme=gotham" alt="ANJAN DIYORA" />
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjan50&layout=compact)](https://github.com/Anjan50/github-readme-stats)" alt="ANJAN DIYORA" />
 
 </details>
+
