@@ -27,7 +27,7 @@
 
 Hi, I'm [ANJAN DIYORA](http://www.computeredu.tech/) from India, currently second year Computer Science Student, Future cloud computing field.  
 
-  <img align="right" alt="GIF" src="https://github.com/ANJAN5005/img/blob/main/Untitled%20design%20(2).gif" width="300" height="300" />
+  <img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="300" height="300" />
   
 **Talking about Personal Stuffs:**
 
