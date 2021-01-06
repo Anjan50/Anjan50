@@ -30,8 +30,8 @@
 <br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Anjan50.Anjan50)
-
 <br />
+
 
 Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India, currently second year Computer Science Student, Future cloud computing field.  
 
