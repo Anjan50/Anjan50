@@ -33,7 +33,7 @@
 <br />
 
 
-Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India, currently second year Computer Science Student, Future cloud computing field.  
+Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India, currently second year Computer Science Student, I predict my Future in cloud computing field.  
 
   <img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="300" height="300" />
   
@@ -41,7 +41,7 @@ Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India, currently se
 
 - 👨🏽‍💻 I’m a ANJAN DIYORA from Surat, Gujarat,India.
 - 🌱 I’m currently learning Python And best way to contribute in Opensourse; 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about Tech stuff, if I know I am happy to help;
 - 📫 How to reach me: [@ANJAN](https://www.anjan-portfolio.ml/);
 
 **Languages and Tools Which I use:**  
