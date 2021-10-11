@@ -40,7 +40,7 @@ Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India, currently se
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a ANJAN DIYORA from Surat, Gujarat,India.
-- 🌱 I’m currently learning Python And best way to contribute in Opensourse; 
+- 🌱 I’m doing Opensourse; 
 - 💬 Ask me about Tech stuff, if I know I am happy to help;
 - 📫 How to reach me: [@ANJAN](https://www.anjan-portfolio.ml/);
 
