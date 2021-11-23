@@ -33,7 +33,7 @@
 <br />
 
 
-Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India, currently second year Computer Science Student, I predict my Future in cloud computing field.  
+Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India,
 
   <img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="300" height="300" />
   
