@@ -11,7 +11,7 @@
 [![Hackerearth](https://img.shields.io/badge/-Anjan's%20Hackerearth-green?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@adproduction50)
 [![Hackerrank](https://img.shields.io/badge/-Anjan's%20Hackerrank-blue?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/ANJAN7301)
 
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=Anjan50.Anjan50)
+![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=Anjan50)
 
 Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India,
 
