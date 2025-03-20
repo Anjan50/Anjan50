@@ -11,18 +11,17 @@
 [![Hackerearth](https://img.shields.io/badge/-Anjan's%20Hackerearth-green?style=flat-square&logo=hackerearth)](https://www.hackerearth.com/@adproduction50)
 [![Hackerrank](https://img.shields.io/badge/-Anjan's%20Hackerrank-blue?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/ANJAN7301)
 
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=Anjan50)
 
-Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India,
+Hi, I'm [ANJAN DIYORA](https://www.anjandiyora.tech/) from Raleigh, NC.
 
 <img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="300" height="300" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Driven software engineer pursuing a Master's in Computer Engineering at North Carolina State University, Raleigh, NC.
+- 👨🏽‍💻 Driven software engineer pursuing a Master's in Computer Science & Networking at North Carolina State University, Raleigh, NC.
 - 🌱 Passionate about contributing to open-source projects.
 - 💬 Ask me about tech stuff; if I know, I'm happy to help.
-- 📫 How to reach me: [@ANJAN](https://www.anjan-portfolio.ml/);
+- 📫 How to reach me: [@ANJAN](https://anjandiyora.tech/);
 
 **Languages and Tools I Use:**  
 
@@ -38,14 +37,10 @@ Hi, I'm [ANJAN DIYORA](https://www.anjan-portfolio.ml/) from India,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 ## 📈 My GitHub Stats
-<details>
-<summary> 🡸 Click here </summary>
-<br />
+
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anjan50&show_icons=true&theme=gotham" alt="ANJAN DIYORA's GitHub Stats" />
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjan50&layout=compact&theme=gotham" alt="ANJAN DIYORA's Top Languages" />
 
-</details>
 
-[Visit GitHub Profile](https://github.com/Anjan50)
 
