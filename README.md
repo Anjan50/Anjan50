@@ -173,26 +173,6 @@ Comprehensive analysis using ns-3 network simulator for performance evaluation.
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-
-![GitHub Contributions](https://raw.githubusercontent.com/Anjan50/Anjan50/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📊 Coding Activity
-
-<div align="center">
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anjan50&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
