@@ -15,9 +15,10 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anjan50&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
