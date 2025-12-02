@@ -15,17 +15,10 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-
-![Anjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjan50&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anjan50&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjan50&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anjan50&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 </div>
 
